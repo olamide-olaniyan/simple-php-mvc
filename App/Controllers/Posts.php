@@ -8,7 +8,6 @@ use App\Models\Post;
 /**
  * Posts controller
  *
- * PHP version 5.4
  */
 class Posts extends \Core\Controller
 {
