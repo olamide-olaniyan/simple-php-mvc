@@ -6,8 +6,6 @@ use PDO;
 
 /**
  * Post model
- *
- * PHP version 5.4
  */
 class Post extends \Core\Model
 {
